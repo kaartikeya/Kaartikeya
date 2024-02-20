@@ -1,6 +1,6 @@
 #Calling all code enthusiasts and caffeine connoisseurs!
 
-I'm Kaartikeya Srivastava, a 4th-year B.Tech student from India fueled by chai and a passion for building innovative software solutions. ☕️ I possess a diverse skillset, proficient in C++, C, Go, Python, and front-end web development (JavaScript, HTML, CSS, and currently diving into React). Whether dissecting complex algorithms and data structures with the precision of a coding samurai, ⚔️ or transforming concepts into digital realities as a budding architect, I'm constantly pushing boundaries and exceeding expectations.
+I'm Kaartikeya Srivastava, a 4th-year B.Tech student from India fueled by chai and a passion for building innovative software solutions. ☕️ I possess a diverse skillset, proficient in C++, C, Go, Python, and front-end web development (JavaScript, HTML, CSS, and currently diving into React). Whether dissecting complex algorithms and data structures, ⚔️ or transforming concepts into digital realities as a budding architect, I'm constantly pushing boundaries and exceeding expectations.
 
 Beyond "Hello, world!"
 
