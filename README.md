@@ -1,15 +1,11 @@
-#Calling all code enthusiasts and caffeine connoisseurs!
+Hi there, Namaste! My name is Kaartikeya Srivastava and I am a B.Tech CSE graduate.
 
-I'm Kaartikeya Srivastava, a 4th-year B.Tech student from India fueled by chai and a passion for building innovative software solutions. ☕️ I possess a diverse skillset, proficient in C++, C, Go, Python, and front-end web development (JavaScript, HTML, CSS, and currently diving into React). Whether dissecting complex algorithms and data structures, ⚔️ or transforming concepts into digital realities as a budding architect, I'm constantly pushing boundaries and exceeding expectations.
+I am a Software Developer with approximately six months of hands-on experience in creating scalable, reactive, and functional websites. I am proficient in languages such as C++, Java, and JavaScript. Currently, I am working with React.js and Google Firebase, and I have also built full-stack projects using the MERN stack.
 
-Beyond "Hello, world!"
+As a Software Developer at a budding startup, I have the opportunity to work on multiple projects and take on various responsibilities beyond development. These include building websites and their UI, handling APIs, integrating with the backend, maintaining databases, and performing low-level unit testing. I also coordinate with project clients, understand their requirements, provide periodic project progress walkthroughs, and strive to exceed expectations with every delivery.
 
-My journey includes creating some reactive and scalable projects. But I'm more than just code. I'm a passionate learner, fueled by the desire to continuously improve.  This drive extends beyond technical skills, encompassing public speaking and debate, where I hone my ability to communicate effectively and persuasively.
-
-Connect and Collaborate:
-
-I'm always seeking opportunities to connect with like-minded individuals, collaborate on exciting projects, and learn from the best. If you're looking for a teammate who brings both technical expertise and a collaborative spirit, let's chat!
+I am a dedicated individual with strong and clear communication skills. My hobbies like debating, public speaking,  reading, and writing blogs enhance my precision, confidence, and ability to articulate ideas effectively. I am easy to work with as I respect personal space and focus on my responsibilities. At the same time, I collaborate effectively and contribute to achieving the best team outcomes.
 
 P.S. Caffeine and friendly debate are always on the table.
 
-P.P.S. Reach out on kaartikeya.1@gmail.com
+To read some of my articles, visit: https://theboiledegg01.blogspot.com/
